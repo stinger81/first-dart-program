@@ -1,2 +1,10 @@
-A sample command-line application with an entrypoint in `bin/`, library code
-in `lib/`, and example unit test in `test/`.
+# First Dart Project
+A simple 7 function calculator
+Supported functions
+- Addition + 
+- Subtraction - 
+- Multiplication * 
+- Division /
+- Exponentiation ^
+- Square root sqrt
+- modulus %
